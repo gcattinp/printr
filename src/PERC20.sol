@@ -32,5 +32,3 @@ contract PERC20 is ERC20 {
         return keccak256(bytes(_name));
     }
 }
-
-
